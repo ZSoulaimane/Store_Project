@@ -98,7 +98,7 @@ CREATE TABLE `clients` (
 
 LOCK TABLES `clients` WRITE;
 /*!40000 ALTER TABLE `clients` DISABLE KEYS */;
-INSERT INTO `clients` VALUES (1,'mehdi@gmail.com','mehdi','mehdi','mehdi',12,'mehdi',12,'mehdi'),(2,'soule@gmail.com','soule','soule','soule',12,'soule',12,'soule'),(3,'salut@gmail.com','sqdm','heloo','mlkml',454,'dsqd',4654,'salut');
+INSERT INTO `clients` VALUES (1,'soule@gmail.com','soule','soule','soule',12,'soule',12,'soule'),(2,'salut@gmail.com','sqdm','heloo','mlkml',454,'dsqd',4654,'salut');
 /*!40000 ALTER TABLE `clients` ENABLE KEYS */;
 UNLOCK TABLES;
 
